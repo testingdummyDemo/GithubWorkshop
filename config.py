@@ -1,3 +1,3 @@
-MODE = 1
+MODE = 5
 print("Current MODE is set to:", MODE)
-# Changed 0 -> 1
+# Changed 1 - 5
